@@ -1,4 +1,4 @@
-# 📈 AI Trader: Dashboard Financeiro em Tempo Real
+# 📈 Trader: Dashboard Financeiro em Tempo Real
 
 ![Status](http://img.shields.io/static/v1?label=STATUS&message=ONLINE&color=GREEN&style=for-the-badge)
 ![Badge Streamlit](https://img.shields.io/badge/FrontEnd-Streamlit-red?style=for-the-badge)
